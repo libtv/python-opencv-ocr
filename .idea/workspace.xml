@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="596b9e58-077a-4c59-84dc-f9521233e053" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/test_images/screenshot/kimjunho.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py-text-gotcha.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/retrained_graph.pd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/retrained_labels.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytextgotcha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/judge_text.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pre_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/hanbatUNIV.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_pre_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/2_20180129022231.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/3_20180129022232.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/4_20180129022234.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/5_20180129022236.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/6_20180129022237.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/7_20180129022238.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/8_20180129022239.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/9_20180129022240.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/config_card.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/final_card_20180129021724.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/image_close_20180129025434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/image_gradient_20180129025434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/image_gray_20180129025434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/image_line_removed_20180129025434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/image_threshold_20180129025434.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/card/my_card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/10_20180129115207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/11_20180129115207.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/12_20180129115208.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/13_20180129115208.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/14_20180129115209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/15_20180129115209.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/16_20180129115210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/17_20180129115210.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/18_20180129115211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/19_20180129115211.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/20_20180129115212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/21_20180129115212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/22_20180129115212.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/23_20180129115213.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/2_20180129115201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/3_20180129115203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/4_20180129115203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/5_20180129115204.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/6_20180129115204.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/7_20180129115205.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/8_20180129115206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/9_20180129115206.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/config_milk.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/final_milk_pack_20180129115201.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/image_close_20180129025700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/image_gradient_20180129025700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/image_gray_20180129025659.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/image_line_removed_20180129025700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/image_threshold_20180129025700.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/merged_milk_pack_20180129115200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/milk/milk_pack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/config_screenshot.yml" beforeDir="false" afterPath="$PROJECT_DIR$/test_images/screenshot/config_screenshot.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/judge_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/judge_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/judge_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/judge_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (10).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (11).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (12).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (13).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (14).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (15).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (16).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (5).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (6).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (7).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (8).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_images/screenshot/test (9).jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="a09cba03-f884-4047-b047-219d73648d32" />
+  <component name="ProjectId" id="1dkl1fzAuZrEXyM77JHLLXDIY3r" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../GitHub/Vehicle_Detection_Yolo_HanBatUniv" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\libtv\Documents\Git\HanBatUNIV\test_images\screenshot" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\libtv\Documents\Git\pyTextGotcha\test_images\screenshot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.hanbatUNIV (1)">
+    <configuration name="hanbatUNIV (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-text-gotcha" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/hanbatUNIV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hanbatUNIV" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-text-gotcha" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\libtv\Documents\Git\pyTextGotcha\src\hanbatUNIV.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_pre_process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-text-gotcha" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test_pre_process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py-text-gotcha" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.hanbatUNIV (1)" />
+        <item itemvalue="Python.hanbatUNIV" />
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.test_pre_process" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="596b9e58-077a-4c59-84dc-f9521233e053" name="Default Changelist" comment="" />
+      <created>1592976757587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592976757587</updated>
+      <workItem from="1592976759010" duration="6674000" />
+      <workItem from="1593041217653" duration="109000" />
+      <workItem from="1593041444097" duration="3127000" />
+      <workItem from="1602648297653" duration="282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1602648577603">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1602648577603" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HanBatUNIV$hanbatUNIV__1_.coverage" NAME="hanbatUNIV (1) Coverage Results" MODIFIED="1593045583765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/pyTextGotcha$tests.coverage" NAME="tests Coverage Results" MODIFIED="1592978170693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/HanBatUNIV$hanbatUNIV.coverage" NAME="hanbatUNIV Coverage Results" MODIFIED="1593041455991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/pyTextGotcha$pre_process.coverage" NAME="pre_process Coverage Results" MODIFIED="1592982910103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+1. tesseract alpha 5.0 사용
+https://github.com/UB-Mannheim/tesseract/wiki
