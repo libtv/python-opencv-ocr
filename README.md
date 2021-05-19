@@ -23,4 +23,8 @@
 <p>음... 생략</p>
 
 <h2>결과</h2>
-<p>success</p>
+<img src="./test_images/screenshot/kimjunho.JPG"/>
+<span>convert</span>
+<img src="./src/Hanbat_10_20200625093944.jpg"/>
+<span>convert To String</span>
+<span>result : 학번 ... </span>
